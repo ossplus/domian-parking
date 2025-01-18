@@ -6,6 +6,6 @@ My parked domains will be pointed to this html webpage and It will automatically
 
 
 ## Screenshot
-![Screenshot](/domain-landing-preview.png?raw=true "Screenshot")
+![Screenshot](/domain-landing-preview.jpeg?raw=true "Screenshot")
 
 [ossplus]: https://www.ossplus.com/
